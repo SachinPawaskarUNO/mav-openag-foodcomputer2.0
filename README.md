@@ -7,7 +7,7 @@ This class is a service learning engagement project/class between University of 
 The Build for the Food Computer was done with significant contribution from a close friend of mine Jay Stark.
 ![Build Image](images/build/FC20-1.jpg)
 
-The project would not have been possible without the significant support from the Service Learning folks at UNO's Community Engagement Center, including Julie D, and Angie C, among others.
+The project would not have been possible without the significant support from the Service Learning folks at UNO's Community Engagement Center, including Julie Dierberger, Angie Carlton, among others.
 
 ## Purpose
 The purpose of this class and service learning engagement with OPS King Science Middle School are the following.
@@ -18,8 +18,11 @@ The OpenAg Food Computer was build based upon the [MIT Open Agriculture Initiati
 Why Food Computer? - See this great [TED Talk](https://www.youtube.com/watch?v=LEx6K4P4GJc) by Caleb Harper, director of the Open Agriculture Initiative at the MIT Media Lab.
 
 Here are some useful links for this project.
+* [Build a Food Computer](https://www.media.mit.edu/posts/build-a-food-computer)
+* [OpenAg Wiki](https://wiki.openag.media.mit.edu)
+* [Personal Food Computer 2.0](https://wiki.openag.media.mit.edu/food_computer_2)
+* [GitHub Repository for Personal Food Computer 2.0](https://github.com/OpenAgInitiative/openag_pfc2)
 * [GitHub Repository for OpenAgInitiative](https://github.com/OpenAgInitiative)
-
 
 ## Contributing
 Thank you for considering contributing to the UNO Maverick's OpenAg Food Computer 2.0 project! The contribution guide can be found in the [link]().
