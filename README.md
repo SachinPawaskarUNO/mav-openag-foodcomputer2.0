@@ -11,6 +11,11 @@ The project would not have been possible without the significant support from th
 
 ## Purpose
 The purpose of this class and service learning engagement with OPS King Science Middle School are the following.
+* Get more students especially female students involved in STEM, given that today only 27% of the scientists and engineers in the U.S. workforce are women. Hence the collaboration with Hollie/Cathryn because girl students tend to gravitate towards female teachers and have more female teachers as role models.
+*	Encourage service learning for College students and tie their learning to a community engagement activity.
+*	Encouraging an interest in STEM is important in K-12 schools, it is a local, state and national priority.
+*	Ignite enthusiasm by making STEM learning interactive and fun.
+*	Increase the level of interest in farming and agriculture in Nebraska and the US, given that only 2% of the total US population is involved in agriculture today.
 
 ## OpenAg Food Computer 2.0
 The OpenAg Food Computer was build based upon the [MIT Open Agriculture Initiative](http://openag.media.mit.edu/).
