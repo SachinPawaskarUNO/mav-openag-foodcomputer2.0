@@ -156,7 +156,9 @@ Let's take a look at the ROS topics:
 Please note, We need to run the following commands everytime we need to start the containers.
 
 > docker-compose up-d
+>
 > docker exec -it openagbraindockerrpi\_brain\_1 bash
+>
 > source catkin\_ws/devel/setup.bash
 ----------------------------------
 
