@@ -1,6 +1,5 @@
 # **<b>OpenAg - Installation Guide for the Foodcomputer Project</b>**
 --------------------------------------------------
---------------------------------------------------
 # **Installation Operating System - Raspbian Jesse**
 
 First, install a compatible operating system on your SD Card that you will be using inside the Raspberry PI. For Raspberry Pi, we recommend Raspbian Jessie. The image can be downloaded  
@@ -48,12 +47,12 @@ Once we have the OS flashed and validated, plug in the SD card into the raspberr
 We should be able to see the home screen.
 
 
-------------------------------
+---------------------------------------
 # **Setting Up Static Address - Raspberry PI**
 
-
+---------------------------------------
 # **Installing Openag\_brain with Docker**
-----------------------------------------
+
 Click on the terminal and run the following commands to install the brain on the raspberry Pi for the OpenAg project.
 
 Things required here are:
@@ -159,9 +158,9 @@ Please note, We need to run the following commands everytime we need to start th
 > docker-compose up-d
 > docker exec -it openagbraindockerrpi\_brain\_1 bash
 > source catkin\_ws/devel/setup.bash
+----------------------------------
 
-**Installing UI**
------------------
+# **Installing UI**
 
 To setup the control panel or the UI for the OpenAg food computer run
 the following command by changing the directory to the root directory.
