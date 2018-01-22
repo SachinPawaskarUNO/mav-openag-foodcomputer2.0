@@ -160,7 +160,9 @@ If you would want to check the output of your topics on your Terminal screen, ty
 Please note, We need to run the following commands everytime we need to start the containers.
 
 > docker-compose up-d
+>
 > docker exec -it openagbraindockerrpi\_brain\_1 bash
+>
 > source catkin\_ws/devel/setup.bash
 ----------------------------------
 
