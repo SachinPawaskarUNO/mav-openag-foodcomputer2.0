@@ -3,10 +3,10 @@
 # **Installation Operating System - Raspbian Jesse**
 
 First, install a compatible operating system on your SD Card that you will be using inside the Raspberry PI. For Raspberry Pi, we recommend Raspbian Jessie. The image can be downloaded  
->http://downloads.raspberrypi.org/raspbian/images/
+>[Download Raspbian Jesse](http://downloads.raspberrypi.org/raspbian/images/)
 
 and flashed to the SD card. For the current setup we have used
->http://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/
+>[Image Download Path - Raspbian Jesse](http://downloads.raspberrypi.org/raspbian/images/raspbian-2017-07-05/)
 
 To flash the operating system into SD card we have used a graphical SD
 card writing tool called Etcher. The instructions to do so are as
