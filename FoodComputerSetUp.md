@@ -153,6 +153,10 @@ Let's take a look at the ROS topics:
 
 > rostopic list
 
+If you would want to check the output of your topics on your Terminal screen, type in the command:
+
+> rostopic echo <name of the topic that you want to see output>
+
 Please note, We need to run the following commands everytime we need to start the containers.
 
 > docker-compose up-d
@@ -186,8 +190,54 @@ To build and deploy, execute the commands below.
 
 > npm run couchapp\_deploy --app\_db\_url="http://localhost:5984/app"
 
-To access the UI
-
 To access the UI locally, replace the IP OF FOOD COMPUTER with localhost
 
 > <http://localhost:5984/app/_design/app/_rewrite>
+
+# **Installing Arduino IDE**
+
+First of all, we need to make sure that our Raspbian Jesse OS is up to date, to do this type in the following command from the terminal of your RaspberryPi
+
+> sudo apt-get update
+
+Then do a upgrade-
+> sudo apt-get upgrade
+
+Now, install the IDE by giving in the following command-
+
+> sudo apt-get install arduino
+
+You can check the IDE, by navigating to the Start button > Programming > Arduino IDE:
+
+<img src="./media/image7.png" width="250" height="300"/>
+
+# **Setting up the Camera**
+To enable the Camera module on the pi, type in the following command-
+
+> sudo raspi-config
+
+<img src="./media/image8.png" width="350" height="300"/>
+
+Navigate to the camera option and enable it, then select "Finish", reboot the RaspberryPi.
+
+Now, install the package required for the camera module:
+
+> sudo apt-get install fswebcam
+
+To install the dependent libraries, run the below command.
+> sudo apt-get install libav-tools
+
+To test if the camera is working properly, try to capture the image by typing in the following command-
+
+> fswebcam -r 640x480 --jpeg 85 -D 1 web-cam-shot.jpg
+
+
+To capture a video for a certain duration:
+
+We need to have a media player to watch the video that can be captured by the USB camera, we have used VLC media player for our purpose:
+
+> sudo apt-get install vlc
+
+Now run the below command where t defines the duration of capture.
+
+> avconv -t 10 -f video4linux2 -i /dev/video0 video0.avi
