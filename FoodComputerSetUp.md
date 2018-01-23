@@ -48,6 +48,29 @@ We should be able to see the home screen.
 
 
 ---------------------------------------
+# **Configuring Wi-Fi**
+Start by booting up the Raspberry PI connected to a display and a keyboard, Open up the Terminal and update the Interfaces file, give in the command-
+
+>  sudo nano /etc/network/interfaces
+
+Add the line below to auto connect to the networks from the Supplicant file-
+
+>auto wlan0
+
+<img src="./media/image9.png" width="450" height="320" />
+ctrl-X, then type Y to quit and save
+
+Open up the wpa_supplicant file from the terminal and add your network details within this file-
+Type in the command:
+
+> sudo nano /etc/wpa_supplicant/wpa_supplicant.conf
+
+Give in your network details -
+
+<img src="./media/image10.png" width="450" height="320" />
+
+
+---------------------------------------
 # **Setting Up Static Address - Raspberry PI**
 
 ---------------------------------------
