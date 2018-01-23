@@ -38,7 +38,7 @@ Thank you for considering contributing to the UNO Maverick's OpenAg Food Compute
 The Build for the Food Computer was done with significant contribution from a close friend of mine Jay Stark, who is an amazing guy when it comes to innovative building, making and future thinking.
 
 ### Ian McEachern
-The OpenAg Food Computer 2.0 parts were sourced as a kit from [OpenAgricultureSupply](https://www.openagriculturesupply.com). I would like thank Ian McEachern for his contunued support. Here is an [executive summary](docs/external-files/Open Agriculture Supply - Executive Summary.pdf) provided by Ian about Open Agriculture Supply.
+The OpenAg Food Computer 2.0 parts were sourced as a kit from [OpenAgricultureSupply](https://www.openagriculturesupply.com). I would like thank Ian McEachern for his contunued support. Here is an [executive summary](docs/external-files/OpenAgricultureSupply-ExecutiveSummary.pdf) provided by Ian about Open Agriculture Supply.
 
 ## License
 The UNO Maverick's OpenAg Food Computer 2.0 is an open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
