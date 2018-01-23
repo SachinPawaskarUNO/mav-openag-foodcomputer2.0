@@ -94,7 +94,7 @@ Type in the following to make changes in the conf file-
         static ip_address=192.168.0.100
         static routers= 192.168.0.1
         static_domain_servers=8.8.8.8
-
+<img src="./media/image13.png" width="450" height="320" />
 Here, static ip_address needs to be the IP address that you would like to set, static routers would be your gateway address.
 
 Update these changes and save the conf file. now reboot the PI by giving in-
