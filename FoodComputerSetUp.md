@@ -72,6 +72,36 @@ Give in your network details -
 
 ---------------------------------------
 # **Setting Up Static Address - Raspberry PI**
+First of all, find out the IP address of the PI and the gateway address, type in the command ifconfig to find out the IP address-
+> ifconfig
+<img src="./media/image11.png" width="450" height="320" />
+
+The inet addr gives the IP address, you can either check the IP address of the wlan0(WiFi) or ethernet(eth0). We are setting the IP addres static for wifi.
+
+We also have to find the gateway address, type in the command below-
+
+> netstat -nr
+
+<img src="./media/image12.png" width="450" height="320" />
+
+Now change the dhcp configuration file to keep the IP address static.
+
+> sudo nano /etc/dhcpcd.conf
+
+Type in the following to make changes in the conf file-
+
+> interface wlan0
+        static ip_address=192.168.0.100
+        static routers= 192.168.0.1
+        static_domain_servers=8.8.8.8
+
+Here, static ip_address needs to be the IP address that you would like to set, static routers would be your gateway address.
+
+Update these changes and save the conf file. now reboot the PI by giving in-
+
+> sudo reboot
+
+The IP address of the Wlan0 is now static and would be static when you are in your local network.
 
 ---------------------------------------
 # **Installing Openag\_brain with Docker**
