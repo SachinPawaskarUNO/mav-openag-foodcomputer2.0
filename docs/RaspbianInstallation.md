@@ -25,17 +25,17 @@ follows:
     -   Navigate to the image that you get from downloading the zipped
         Raspbian Jessie.
 
-    -   Then Click on Flash button.
+        -   Then Click on Flash button.
 
-<img src="https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/tree/master/media/image1.png" width="451" height="322" />
+    <img src="./media/image1.png" width="451" height="322" />
 
-  Fig 1: Select Image from Etcher
+      Fig 1: Select Image from Etcher
 
- <img src="https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/tree/master/media/image2.png" width="548" height="374" />
+     <img src="./media/image2.png" width="548" height="374" />
 
- Fig 2: Raspbian Jessie Image Navigate
+     Fig 2: Raspbian Jessie Image Navigate
 
- <img src="https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/tree/master/media/image3.png" width="543" height="317" />
+     <img src="./media/image3.png" width="543" height="317" />
 
  Fig 3: Flash to SD CARD
 
