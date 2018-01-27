@@ -1,5 +1,7 @@
 # **<b>OpenAg - Complete Guide for the Foodcomputer Project</b>**
 --------------------------------------------------
+:cloud: :computer: :movie_camera:  :sunny: :potable_water: :cherries: :sweet_potato: :corn: :tomato: :pineapple: :grapes: :lemon: :apple: :peach: :pear: :green_apple: :tangerine: :cloud:
+
 This document walks you through with the complete procedure on how to build a Food Computer from Scratch.
 
 # Table of contents
