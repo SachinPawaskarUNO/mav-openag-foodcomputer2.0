@@ -11,4 +11,5 @@ This document walks you through with the complete procedure on how to build a Fo
 
 3. [Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
 
-4. [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
+4. [Brain Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/BrainInstallation.md)
+5. [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)

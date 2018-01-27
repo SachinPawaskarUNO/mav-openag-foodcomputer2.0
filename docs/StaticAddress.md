@@ -1,4 +1,6 @@
 # **Setting Static Address in Raspberry PI**
+[Back to Main](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)
+
 There are different ways to get to know the IP address of your Raspberry PI. First of all, we would like to walk you through with how you can configure your WIFI. You can do this configuration if you have a display screen and a keyboard and a mouse to control the PI.
 
 If not, go ahead and set the IP address of the Raspberry PI to a static address, post which you can SSH to the IP that you have set, from your local machine. Make sure you have a client to view the screen. We found VNC Viewer to be the best that served our purpose. Nevertheless, you need to have a display screen to first know the IP address and set it.
