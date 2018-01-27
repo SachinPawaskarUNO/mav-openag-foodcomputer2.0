@@ -1,4 +1,4 @@
-# **Installation Operating System - Raspbian **
+# **Installation Operating System - Raspbian**
 
 First, install a compatible operating system on your SD Card that you will be using inside the Raspberry PI. For Raspberry Pi, we recommend Raspbian Jessie. The image can be downloaded  
 >[Download Raspbian Jessie](http://downloads.raspberrypi.org/raspbian/images/)
