@@ -110,12 +110,13 @@ Open your VNC Viewer, and type in the IP address of your PI in the search bar-
 
 Give in the login credentials of the Pi, By default this is set to :
 
-Username : pi
-Password : raspberry
+> Username : pi
+> Password : raspberry
 
-<img src="./media/image20.png" width="400" height="400" />
+> <img src="./media/image20.png" width="400" height="400" />
 
-You can now view the desktop of the PI -
-<img src="./media/image21.png" width="400" height="400" />
+You can now view the desktop of the PI :
+
+> <img src="./media/image21.png" width="400" height="400" />
 
 This is as simple as you can see!!
