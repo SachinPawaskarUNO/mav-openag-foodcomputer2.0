@@ -2,6 +2,7 @@
 There are different ways to get to know the IP address of your Raspberry PI. First of all, we would like to walk you through with how you can configure your WIFI. You can do this configuration if you have a display screen and a keyboard and a mouse to control the PI.
 
 If not, go ahead and set the IP address of the Raspberry PI to a static address, post which you can SSH to the IP that you have set, from your local machine. Make sure you have a client to view the screen. We found VNC Viewer to be the best that served our purpose. Nevertheless, you need to have a display screen to first know the IP address and set it.
+
 ---------------------------------------
 
 # **Configuring Wi-Fi**
@@ -85,9 +86,9 @@ Now, here we are trying to demonstrate on how we can have laptop's internet to b
 
 This would provide a dynamic IP address to the Ethernet port of your laptop, now we need to check the IP of our laptop-
 
-<img src="./media/image17.png" width="600" height="400" />
+<img src="./media/image17.png" width="300" height="400" />
 
-<img src="./media/image18.png" width="600" height="400" />
+<img src="./media/image18.png" width="300" height="400" />
 
 3. Now, set an IP that is in proximity to the address that you would like to have your PI. We have set it to 10.10.10.1 in our scenario and set our PI to 10.10.10.10.
 
@@ -112,9 +113,9 @@ Give in the login credentials of the Pi, By default this is set to :
 Username : pi
 Password : raspberry
 
-<img src="./media/image20.png" width="700" height="400" />
+<img src="./media/image20.png" width="400" height="400" />
 
 You can now view the desktop of the PI -
-<img src="./media/image21.png" width="700" height="400" />
+<img src="./media/image21.png" width="400" height="400" />
 
 This is as simple as you can see!!
