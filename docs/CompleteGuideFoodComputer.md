@@ -9,6 +9,6 @@ This document walks you through with the complete procedure on how to build a Fo
 
 2. [Static Address on PI](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/StaticAddress.md)
 
-3.[Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
+3. [Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
 
 4. [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
