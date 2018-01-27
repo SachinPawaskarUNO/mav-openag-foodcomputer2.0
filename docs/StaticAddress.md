@@ -55,7 +55,7 @@ Type in the following to make changes in the conf file-
 Here, static ip_address needs to be the IP address that you would like to set, static routers would be your gateway address. While setting up the IP address of the PI, we need to make sure that the IP address is within the range of the gateway.
 
 
-Make sure that, you have SSH enabled in your RaspberryPi.This can be done by going to Raspberry PI configuration.
+Make sure that, you have SSH and VNC enabled in your RaspberryPi. This is needed to connect the PI remotely from your local machines,which can be done by going to Raspberry PI configuration.
 
 Go to the start screen of your PI, Preferences > Raspberry PI configuration
 <img src="./media/image22.png" width="450" height="400" />
