@@ -7,7 +7,7 @@ This class is a service learning engagement project/class between University of 
 The Build for the Food Computer was done with significant contribution from a close friend of mine Jay Stark, who is an amazing guy when it comes to innovative building, making and future thinking.
 ![Build Image](images/build/FC20-1.jpg)
 
-The project would not have been possible without the significant support from the Service Learning folks at UNO's Community Engagement Center, including Julie Dierberger, Angie Carlton, among others.
+The project would not have been possible without the significant support from the Service Learning folks at UNO's Service Learning Academy, including Julie Dierberger, Angie Carlton, among others.
 
 ## Purpose
 The purpose of this class and service learning engagement with OPS King Science Middle School are the following.
