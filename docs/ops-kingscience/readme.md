@@ -1,4 +1,6 @@
-# This is where OPS teachers will put content
+# This is where OPS Students and Teachers will put content
+
+## Experiment setup
 
 ## Student weekly report
 
