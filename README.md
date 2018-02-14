@@ -29,6 +29,7 @@ Here are some useful links for this project.
 * [GitHub Repository for Personal Food Computer 2.0](https://github.com/OpenAgInitiative/openag_pfc2)
 * [GitHub Repository for OpenAgInitiative](https://github.com/OpenAgInitiative)
 * [OpenAg Forum](http://forum.openag.media.mit.edu)
+* [UNO - Omaha Mavericks Food Computer 2.0 - Forum](http://forum.openag.media.mit.edu/t/omaha-mavericks-food-computer-2-0-mavfc/3066)
 
 ## Contributing
 Thank you for considering contributing to the UNO Maverick's OpenAg Food Computer 2.0 project! The contribution guide can be found in the [link]().
