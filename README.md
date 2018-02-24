@@ -31,6 +31,12 @@ Here are some useful links for this project.
 * [OpenAg Forum](http://forum.openag.media.mit.edu)
 * [UNO - Omaha Mavericks Food Computer 2.0 - Forum](http://forum.openag.media.mit.edu/t/omaha-mavericks-food-computer-2-0-mavfc/3066)
 
+# An extensive guide on setting up Food Computer 2.0
+The Build of Food computer 2.0 can be broadly classified into Hardware and Software Set-up.
+Hardware Set-up involves fabricating the entire module to create a controlled-environment for the plants to be grown. 
+Software Set-up involves installing the brain and all the necessary modules to control the hardware components inorder to achive the required simulation. 
+The complete guide to building a Food Computer is given here: [Food Computer 2.0 Start-up Guide](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)
+
 ## Contributing
 Thank you for considering contributing to the UNO Maverick's OpenAg Food Computer 2.0 project! The contribution guide can be found in the [link]().
 
