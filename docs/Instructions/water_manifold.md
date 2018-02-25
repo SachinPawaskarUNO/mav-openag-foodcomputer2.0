@@ -1,5 +1,7 @@
-
 ## Assemble the Water Manifold
+:house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)
+
+
 * *on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires.*
 1. See **Sub-Assembly BOM's** **"Water Manifold"** tab for a complete list of parts.
 2. Join the two plastic panels together with x3 **S-#08-32-050-BTN-S-SS (Bag 3)**, **S-#08-32-094-NUT-H-SS (Bag 6)**, & **S-#08-00-125-LBR-O-SS (Bag 32)** stainless steel L-brackets.

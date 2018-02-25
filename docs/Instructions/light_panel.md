@@ -1,4 +1,6 @@
 ## Assemble the Light Panel
+:house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)
+
 * *WARNING! Tightening light straps before each row of lights is finished may cause a strap to break.*
  ![Light Panel Components](Photos/Light_Panel/light_manifold_components.jpg)
 

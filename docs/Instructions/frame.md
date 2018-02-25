@@ -1,6 +1,7 @@
-<!-- TODO: Indicate significance of threading -->
-<!-- TODO: Identify chirarity and parts, the things that were confusing. -->
 ## Assemble the Frame
+:house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)
+
+
 ### Tools
  - tape measure
  - Rubber Mallet

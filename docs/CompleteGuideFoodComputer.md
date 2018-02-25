@@ -19,3 +19,11 @@ Detailed overview on the build of the device-
 Some of the Images captured during our learning process-
 
 ![Build Food Computer](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-1.jpg)
+
+![Picture2](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-3.jpg)
+
+![Picture3](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-20.jpg)
+
+![Picture4](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-15.jpg)
+
+![Picture5](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-24.jpg)
