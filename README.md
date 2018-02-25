@@ -33,8 +33,8 @@ Here are some useful links for this project.
 
 # An extensive guide on setting up Food Computer 2.0
 The Build of Food computer 2.0 can be broadly classified into Hardware and Software Set-up.
-Hardware Set-up involves fabricating the entire module to create a controlled-environment for the plants to be grown. 
-Software Set-up involves installing the brain and all the necessary modules to control the hardware components inorder to achive the required simulation. 
+Hardware Set-up involves fabricating the entire module to create a controlled-environment for the plants to be grown.
+Software Set-up involves installing the brain and all the necessary modules to control the hardware components inorder to achieve the required simulation. 
 The complete guide to building a Food Computer is given here: [Food Computer 2.0 Start-up Guide](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)
 
 ## Contributing
@@ -59,4 +59,3 @@ Here are some links to help you get started
 * [GitHub Markdown Cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
 * [Adam Pritchard's Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [GitHub Features - Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
-

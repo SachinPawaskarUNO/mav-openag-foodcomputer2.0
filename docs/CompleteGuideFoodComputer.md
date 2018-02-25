@@ -6,12 +6,19 @@ This document walks you through with the complete procedure on how to build a Fo
 
 # Table of contents
 
+This walks you through with fabricating and setting up an environment for plant growth!
 
-1. [Installation of Raspbian Jessie](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/RaspbianInstallation.md)  
+# <h2>Hardware Build</h2>
 
-2. [Static Address on PI](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/StaticAddress.md)
+* [Building the Food Computer Device](./HardwareFabrication.md)
 
-3. [Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
+# <h3>Software Development</h3>
+* [Installation of Raspbian Jessie](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/RaspbianInstallation.md)  
 
-4. [Brain Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/BrainInstallation.md)
-5. [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
+* [Static Address on PI](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/StaticAddress.md)
+
+* [Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
+
+* [Brain Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/BrainInstallation.md)
+
+* [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
