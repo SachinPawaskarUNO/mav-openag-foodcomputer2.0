@@ -35,7 +35,9 @@ Here are some useful links for this project.
 The Build of Food computer 2.0 can be broadly classified into Hardware and Software Set-up.
 Hardware Set-up involves fabricating the entire module to create a controlled-environment for the plants to be grown.
 Software Set-up involves installing the brain and all the necessary modules to control the hardware components inorder to achieve the required simulation. 
-The complete guide to building a Food Computer is given here: [Food Computer 2.0 Start-up Guide](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)
+The complete guide to building a Food Computer is given below: 
+
+### <h3>[Food Computer 2.0 Start-up Guide](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)</h3>
 
 ## Contributing
 Thank you for considering contributing to the UNO Maverick's OpenAg Food Computer 2.0 project! The contribution guide can be found in the [link]().
