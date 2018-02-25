@@ -9,7 +9,7 @@ This document walks you through with the complete procedure on how to build a Fo
 
 * [Building the Food Computer Device](./HardwareFabrication.md)
 
-# <h3>Software Development</h3>
+# <h2>Software Development</h2>
 * [Installation of Raspbian Jessie](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/RaspbianInstallation.md)  
 
 * [Static Address on PI](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/StaticAddress.md)
