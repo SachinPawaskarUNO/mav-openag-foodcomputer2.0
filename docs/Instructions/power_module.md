@@ -1,6 +1,6 @@
 ## Assemble the Power Module
 :house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)||
-[Next-Water Manifold](./Instructions/water_manifold.md)
+[Next-Water Manifold](./water_manifold.md)
 
 ![power_module_assembly_front](Photos/power_module_assembly_front.jpg)
 
