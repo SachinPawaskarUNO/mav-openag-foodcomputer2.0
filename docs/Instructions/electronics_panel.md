@@ -1,6 +1,6 @@
 ## Assemble The Electronics Panel Components
 :house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md) ||
-[Next-Build Brain Module](./Instructions/brain_module.md)
+[Next-Build Brain Module](./brain_module.md)
 
 #### Tools
 - 1/16" Hex Driver
