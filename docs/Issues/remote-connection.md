@@ -1,5 +1,5 @@
 # **Issues Faced During Development**
-:house: [Back to Main](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
+:house: [Back to Trouble Shooting](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md) || [Next - Sensor Switch](./sensor-switch.md)
 
 # *Remote Connection - Raspberry PI*
 

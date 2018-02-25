@@ -1,5 +1,7 @@
 
 # *Sensor connections to switch to I2C from UART*
+:house: [Back to Trouble Shooting](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md) || [Next - Detect Sensor Readings](./sensor-reading-detect.md)
+
 
 I2C is a bus that allows data exchange between microcontrollers and peripherals with a minimum amount of wiring.
 

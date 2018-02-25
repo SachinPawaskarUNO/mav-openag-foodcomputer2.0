@@ -3,3 +3,4 @@
 
 1. [Remote Connection - Raspberry PI](./Issues/remote-connection.md)
 2. [Sensor connections to switch to I2C from UART](./Issues/sensor-switch.md)
+3. [Unable to Detect Sensor Readings](./Issues/sensor-reading-detect.md)
