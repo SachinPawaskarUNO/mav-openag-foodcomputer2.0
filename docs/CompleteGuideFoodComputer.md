@@ -9,12 +9,8 @@ Detailed overview on the build of the device-
 * [Building the Food Computer Device](./HardwareFabrication.md)
 
 # <h2>Software Development</h2>
-<<<<<<< HEAD
 
 * [Software Installation Guide](./SoftwareInstallation.md)  
-=======
-* [Installation of Raspbian Jessie](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/RaspbianInstallation.md)  
->>>>>>> 8a8ad9a5bb24d1994657ca90f8bab7d169084051
 
 # <h2>Issues Faced and Solutions </h3>
 
@@ -22,4 +18,4 @@ Detailed overview on the build of the device-
 
 Some of the Images captured during our learning process-
 
-![Build Food Computer](mav-openag-foodcomputer2.0/images/build/FC20-1.jpg)
+![Build Food Computer](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/images/build/FC20-1.jpg)

@@ -1,5 +1,5 @@
 # **Issues Faced During Development**
-:house: [Back to Main](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/CompleteGuideFoodComputer.md)
+:house: [Back to Main](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
 
 # *Remote Connection - Raspberry PI*
 
@@ -22,14 +22,3 @@ So, when you go to a new network and your PI is not configured to the new networ
 4. If you have an Angry IP Scanner, run it to know the IP address of the Raspberry PI. If not, download the Scanner- [IP Scanner](http://angryip.org/download/#windows)
 
 5. Use VNC viewer, to connect to the IP of the PI.Download VNC Viewer if you don't have one  here- [Download VNC Viewer](https://www.realvnc.com/en/connect/download/viewer/)
---------------------------------------------
-# *Sensor connections to switch to I2C from UART*
-
-I2C is a bus that allows data exchange between microcontrollers and peripherals with a minimum amount of wiring.
-
-The pH sensor switch to I2c mode from UART is given in pages 38 and 39 of the book [Atlas Scientific Environmental Robotics V4.4](https://www.atlas-scientific.com/_files/_datasheets/_circuit/pH_EZO_datasheet.pdf)
-
-Inorder to switch from UART to I2C,for EC sensor, refer to pages 40 and 41 of the book [Atlas Scientific Environmental Robotics V4.4](https://www.atlas-scientific.com/_files/_datasheets/_circuit/pH_EZO_datasheet.pdf)
-
-----------------------------------------
-Source : [Our Savior](https://spellfoundry.com/2016/05/29/configuring-gpio-serial-port-raspbian-jessie-including-pi-3/)
