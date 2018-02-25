@@ -1,6 +1,6 @@
 ## Assemble the Water Manifold
 :house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)||
-[Next-Chillers](./Instructions/chiller.md)
+[Next-Chillers](./chiller.md)
 
 
 * *on each panel there are finernail sized rectangular cutouts. Use these & zipties to route wires.*
