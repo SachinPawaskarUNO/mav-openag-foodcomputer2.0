@@ -5,9 +5,6 @@
 This document walks you through with the complete procedure on how to build a Food Computer from Scratch.
 
 # Table of contents
-
-This walks you through with fabricating and setting up an environment for plant growth!
-
 # <h2>Hardware Build</h2>
 
 * [Building the Food Computer Device](./HardwareFabrication.md)
