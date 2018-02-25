@@ -1,5 +1,6 @@
 ## Assemble the Frame
-:house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)
+:house: [Back to Hardware Build](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/HardwareFabrication.md)||
+[Next-Build Electronics Panel](./Instructions/electronics_panel.md)
 
 
 ### Tools

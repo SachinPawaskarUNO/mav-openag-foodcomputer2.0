@@ -17,6 +17,7 @@ Follow the instructions below for assembling each modules-
 5. [Power Module](./Instructions/power_module.md)
 6. [Water Manifold](./Instructions/water_manifold.md)
 7. [Chillers](./Instructions/chiller.md)
+8. [Temperature Control](./Instructions/temperature_control_module.md)
 
 ## Set Electrical Components into Proper Modes
 1. Set the **Multifunction Relay** into **Mode 10** and **Timer 1** to 20 seconds
