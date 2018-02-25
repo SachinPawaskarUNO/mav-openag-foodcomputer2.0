@@ -6,15 +6,15 @@ This document walks you through with the complete procedure on how to build a Fo
 
 # <h2>Hardware Build</h2>
 
-* <h3>[Building the Food Computer Device](./HardwareFabrication.md)</h3>
+* [Building the Food Computer Device](./HardwareFabrication.md)
 
 # <h2>Software Development</h2>
 
-* <h3>[Software Installation Guide](./SoftwareInstallation.md)</h3>  
+* [Software Installation Guide](./SoftwareInstallation.md)  
 
 # <h2>Issues Faced and Solutions </h2>
 
-* <h3>[Troubleshooting Mechanisms](./IssueTroubleShooting.md)</h3>
+* [Troubleshooting Mechanisms](./IssueTroubleShooting.md)
 
 Some of the Images captured during our building process-
 
