@@ -4,18 +4,18 @@
 
 This document walks you through with the complete procedure on how to build a Food Computer from Scratch.
 
-# Table of contents
 # <h2>Hardware Build</h2>
-
+Detailed overview on the build of the device-
 * [Building the Food Computer Device](./HardwareFabrication.md)
 
-# <h3>Software Development</h3>
-* [Installation of Raspbian Jessie](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/RaspbianInstallation.md)  
+# <h2>Software Development</h2>
 
-* [Static Address on PI](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/StaticAddress.md)
+* [Software Installation Guide](./SoftwareInstallation.md)  
 
-* [Docker Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/DockerInstallation.md)
+# <h2>Issues Faced and Solutions </h3>
 
-* [Brain Installation](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/BrainInstallation.md)
+* [Troubleshooting Mechanisms](./IssueTroubleShooting.md)
 
-* [Issues Faced During Development](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
+Some of the Images captured during our learning process-
+
+![Build Food Computer](mav-openag-foodcomputer2.0/images/build/FC20-1.jpg)
