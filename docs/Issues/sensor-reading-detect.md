@@ -1,6 +1,6 @@
-# Unable to Detect Sensor Readings
+# Unable to Display Sensor Readings on UI
 
-:house: [Back to Trouble Shooting](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md)
+:house: [Back to Trouble Shooting](https://github.com/SachinPawaskarUNO/mav-openag-foodcomputer2.0/blob/master/docs/IssueTroubleShooting.md) || [Next-Arduino Test](./arduino-test.md)
 
 We have connected all the sensors, but do not get any sensor readings from the sensors to be displayed on the UI.
 
