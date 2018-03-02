@@ -16,6 +16,7 @@ Students from King Science Center are being introduced to the Food Computer duri
 Students being introduced to their community partners for the semester.
 
 ![Image Four](./media_files/IMG-1059.JPG)
-  A UNO graduate student explaining components of the Food Computer to King Science students during the installation process.
+
+A UNO graduate student explaining components of the Food Computer to King Science students during the installation process.
 
 ![Image Five](./media_files/IMG_7269.JPG)
