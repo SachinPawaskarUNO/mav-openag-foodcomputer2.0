@@ -3,7 +3,7 @@ UNO Mavericks ISQA - Build and Implementation of OpenAg Food Computer. This is t
 
 ## Service Learning
 This class is a service learning engagement project/class between University of Nebraska (UNO) and Omaha Public School's (OPS) King Science Middle School. The instructor for this class is Dr. Sachin Pawaskar (UNO) and from the OPS side is Mrs. Hollie Cotten and Mrs. Cathryn Skoumal. Please visit [OPS Student and Teacher site](docs/ops-kingscience/readme.md) for updates and progress on this project.
-![SLA-UNO](images/Spring Newsletter 2018-UNO Food Computer.jpg)
+![SLA-UNO](images/uno-newsletter-mavfc20.jpg)
 
 The Build for the Food Computer was done with significant contribution from a close friend of mine Jay Stark, who is an amazing guy when it comes to innovative building, making and future thinking.
 ![Build Image](images/build/FC20-1.jpg)
@@ -18,7 +18,7 @@ The purpose of this class and service learning engagement with OPS King Science 
 *	Ignite enthusiasm by making STEM learning interactive and fun.
 *	Increase the level of interest in farming and agriculture in Nebraska and the US, given that only 2% of the total US population is involved in agriculture today.
 
-![SLA-UNO-students](images/Spring Newsletter 2018-UNO Food Computer-students.jpg)
+![SLA-UNO-students](images/uno-newsletter-mavfc20-students.jpg)
 
 ## OpenAg Food Computer 2.0
 The OpenAg Food Computer was build based upon the [MIT Open Agriculture Initiative](http://openag.media.mit.edu/).
